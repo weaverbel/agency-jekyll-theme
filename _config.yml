@@ -1,42 +1,42 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://carpentriesblog.github.io
+baseurl: /carpentriesblog
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: The Carpentries
+email: team@carpentries.org
+description: "This is the joint blog of Software and Data Carpentry (The Carpentries)."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Jonah Duckles
   pic: 1
-  position: Lead Designer
+  position: Executive Director, Software Carpentry
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/jduckles
     - title: facebook
       url: #
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Tracy Teal
   pic: 2
-  position: Lead Marketer
+  position: Director, Data Carpentry
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/jduckles
     - title: facebook
       url: #
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Belinda Weaver
   pic: 3
-  position: Lead Developer
+  position: Community Development Lead
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/cloudaus
     - title: facebook
       url: #
     - title: google-plus
@@ -45,20 +45,19 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/swcarpentry
+  - title: twitter
+    url: http://twitter.com/datacarpentry
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/carpentries
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/carpentries
+
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: #
+  - line: #
 
 # Build settings
 markdown: kramdown
